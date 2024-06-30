@@ -6,11 +6,11 @@ This Python application utilizes Tkinter for a graphical user interface to encry
 
 ### Dark Theme
 
-![Dark Theme](screenshots/darktheme.png)
+![Dark Theme](darktheme.png)
 
 ### Light Theme
 
-![Light Theme](screenshots/lighttheme.png)
+![Light Theme](lighttheme.png)
 
 ## Files
 
